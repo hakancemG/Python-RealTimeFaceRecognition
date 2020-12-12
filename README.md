@@ -1,2 +1,1 @@
-# Python-RealTimeFaceRecognition
-In this repository, I created a program that detects faces in a real time webcam video.
+#Ask me if you have any issues: @hakancemgercek/twitter, @hkn.cem/instagram
